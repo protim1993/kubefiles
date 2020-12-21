@@ -9,4 +9,8 @@ spec:
         containers:
                 - name: nginx-container
                   image: redis
-              
+             sfsdfsdfsdf
+            sdfsdfsdfsdfsdf
+           sdfsdfsdfsdfsdf
+          sdfsdfsdfsdfsdfsdf
+         sdfsdfsdfsdfsdfsdfsdf 
